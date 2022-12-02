@@ -6,9 +6,9 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les différences entre les webapps, les applications hybrides et natives ❌ / ✔️
-- le fonctionnement d'une app React Native, ce qui sera en réalité produit et installé sur le téléphone de mes utilisateur·rices, comment le JS arrive à communiquer avec le natif ❌ / ✔️
-- quelles sont les différentes technologies (frameworks) existantes pour développer des apps mobiles ❌ / ✔️
+- les différences entre les webapps, les applications hybrides et natives ✔️
+- le fonctionnement d'une app React Native, ce qui sera en réalité produit et installé sur le téléphone de mes utilisateur·rices, comment le JS arrive à communiquer avec le natif ✔️
+- quelles sont les différentes technologies (frameworks) existantes pour développer des apps mobiles ✔️
 - quels sont les principaux points d'attention entre le développement d'une app mobile ou desktop ❌ / ✔️
 
 ## 💻 J'utilise
@@ -17,7 +17,7 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+[Projet test "Inspirational homepage"](https://github.com/kimlesieur/inspirational-homepage)
 
 Description :
 
@@ -30,6 +30,9 @@ Description :
 ### Utilisation en environement professionnel ❌ / ✔️
 
 Description :
+Application SpeeDating en React Native.
+Données proviennent d'une API fournie par le client.
+Livraison prévue pour Décembre 2022.
 
 ## 🌐 J'utilise des ressources
 
