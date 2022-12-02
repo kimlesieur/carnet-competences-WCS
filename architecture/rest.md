@@ -6,19 +6,19 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les verbes HTTP ❌ / ✔️
-- les statuts HTTP ❌ / ✔️
-- les endpoints ❌ / ✔️
-- CORS ❌ / ✔️
-- la nomenclature recommandée pour les routes ❌ / ✔️
+- les verbes HTTP ✔️
+- les statuts HTTP ✔️
+- les endpoints ✔️
+- CORS ❌
+- la nomenclature recommandée pour les routes ✔️
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[Repo projet REST API pour site e-commerce](https://github.com/kimlesieur/ecommerce-app-REST-API)
 
 Description :
 
@@ -28,16 +28,19 @@ Description :
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ✔️
 
 Description :
+Projet client qui possède un site Prestashop vendant des billets pour des événements de speedating.
+Ils ont développé une API qui renvoit leurs données produits et clients.
+Nous avons dû nous connecter à cette API pour obtenir les données nécessaires à la création de leur application mobile.
 
 ## 🌐 J'utilise des ressources
 
 ### Titre
 
-- lien
-- description
+- [Cross-Origin Requests](https://javascript.info/fetch-crossorigin#why-is-cors-needed-a-brief-history)
+- A brief history of CORS and why it's needed + safer requests with CORS
 
 ## 🚧 Je franchis les obstacles
 
@@ -48,6 +51,7 @@ Description:
 Plan d'action : (à valider par le formateur)
 
 - action 1 ❌ / ✔️
+  Relire ressource sur CORS pour bien comprendre le concept technique
 - action 2 ❌ / ✔️
 - ...
 
