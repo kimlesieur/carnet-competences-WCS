@@ -9,7 +9,7 @@
 - Le rôle de l'OWASP ✔️
 - Les injections SQL ✔️
 - XSS ✔️
-- CRSF ✔️
+- CRSF ❌
 
 ## 💻 J'utilise
 
@@ -35,8 +35,8 @@ Description :
 
 ### Titre
 
-- lien
-- description
+- [CSRF attacks ](https://owasp.org/www-community/attacks/csrf)
+  What's CSRF and examples, how prevent them.
 
 ## 🚧 Je franchis les obstacles
 
@@ -46,8 +46,7 @@ Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
+- action 1: se documenter sur les failles CSRF ❌
 - ...
 
 Résolution :
