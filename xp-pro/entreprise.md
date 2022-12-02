@@ -2,13 +2,13 @@
 
 ## L'activité principale
 
-> Accompagne des entreprises dans la création et le déploiement de solutions mobiles.
-> Le scope d'expertises proposées va du conseil jusqu'à la formation des clients sur les technologies exploitées dans leurs solutions digitales.
-> ![Scope d'expertises de l'agence Beapp](https://zupimages.net/up/22/48/00dn.png)
+Accompagne des entreprises dans la création et le déploiement de solutions mobiles.
+Le scope d'expertises proposées va du conseil jusqu'à la formation des clients sur les technologies exploitées dans leurs solutions digitales.
+![Scope d'expertises de l'agence Beapp](https://zupimages.net/up/22/48/00dn.png)
 
 ## Ton équipe
 
-> Concernant les projets, l'entreprise est composée de 3 pôles principaux :
+Concernant les projets, l'entreprise est composée de 3 pôles principaux :
 
 - Gestion de projet
 - Design (UI/UX)
